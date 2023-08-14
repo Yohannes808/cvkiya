@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title> †Kiya's Personal Site </title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+
+    <table cellspacing="20">
+      <td><img src="circle.png" alt="Anglina Jolie"></td>
+      <td>
+      <h1>Yohannes Admasu</h1>
+      <p><em>BSC Degree in <strong>Mechanical Engineer</strong></em></p>
+      <p>I'm Graduated from Mettu University in Mechanical Engineering</p>
+    </td>
+    </table>
+
+<hr>
+<h3>Books and Teaching </h3>
+<ul>
+  <li>Long walk to freedom</li>
+  <li>The universe in a nutshell</li>
+</ul>
+<hr>
+ <h3>Work Experiance</h3>
+ <table>
+   <thead>
+     <tr>
+       <th>Date</th>
+       <th>Work</th>
+     </tr>
+   </thead>
+   <tbody>
+   <tr>
+     <td>2013 - 2015</td>
+     <td> ZemZem Bank</td>
+   </tr>
+   <tr>
+     <td>2016 - 2023</td>
+     <td> Zemen Bank</td>
+   </tr>
+    </tbody>
+ </table>
+ <hr>
+ <h3>Skills</h3>
+ <table cellspacing = "10">
+   <tr>
+     <td>Solidworks⭐⭐⭐⭐⭐</td>
+   </tr>
+   <tr>
+     <td>Autocad⭐⭐⭐</td>
+   </tr>
+   <tr>
+     <td>Welding⭐⭐⭐⭐</td>
+   </tr>
+     <tr>
+     <td>HTML⭐</td>
+     </tr>
+ </table>
+ <a href="hobbies.html"><h3>My hobbies</h3></a>
+ <a href="contact.html"><h3>contact.html</h3></a>
+  </body>
+</html>
